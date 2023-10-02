@@ -474,3 +474,10 @@ ion-icon{
         right: 19vh;
     }
 }
+
+@media (min-width:800px) {
+    .project-tile{
+        width: 40%;
+        height: 60vh;
+    }
+}
