@@ -419,3 +419,29 @@ ion-icon{
     }
 }
 
+@media (max-width:500px){
+    #navbar{
+        top: -2px;
+    }
+    #profile .detail{
+        padding: 15px;
+        margin: auto;
+    }
+    #profile{
+        padding: 0px;
+        justify-content: center;
+        width: 80%;
+    }
+    .name{
+        font-weight: 600;
+    }
+    .link-container{
+        gap: 5px;
+    }
+    .circle1{
+        left: 19vh;
+    }
+    .circle2{
+        right: 19vh;
+    }
+}
